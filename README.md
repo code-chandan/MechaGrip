@@ -2,7 +2,7 @@
 
 MechaGrip is a 4-axis robotic arm that’s kinda like if a CNC machine, a 3D printer, and a drunk claw machine had a kid except this one actually works. It’s made for light pick-and-place tasks, gesture control experiments, or just for flexing on your desk next to your keyboard. It runs on a basic Arduino setup but doesn’t feel basic at all. The servos aren’t those $2 ones that jitter like they’re having a seizure   we went with beefy MG996Rs and a proper control board. It moves smoothly, holds position like a champ, and doesn’t scream (too loudly) when you power it up.
 
-It’s built from a mix of laser-cut acrylic and 3D printed parts no CNC required. Just print, bolt, wire, upload, and flex.
+
 
 <img width="365" height="509" alt="image" src="https://github.com/user-attachments/assets/430a393c-23b0-4402-b01a-bebf1a17a502" />
 
