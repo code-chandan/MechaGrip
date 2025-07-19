@@ -59,6 +59,17 @@ You’ll find the code inside `/firmware`.
 - Power supply → PCA9685 power rail (don’t power servos from Arduino, it will cry)
 
 ---
+## gallery 
+
+<img width="448" height="697" alt="Screenshot 2025-07-19 172724" src="https://github.com/user-attachments/assets/dea2a4e8-7a8a-48a7-8ef6-13b0c92cf5e5" />
+<img width="1171" height="940" alt="Screenshot 2025-07-19 172533" src="https://github.com/user-attachments/assets/f56900b7-5636-4692-a278-94da0081aa00" />
+<img width="873" height="729" alt="Screenshot 2025-07-19 172345" src="https://github.com/user-attachments/assets/b318820b-8897-4cff-ada8-d4f0120f62f5" />
+<img width="913" height="311" alt="Screenshot 2025-07-19 172128" src="https://github.com/user-attachments/assets/b6e212bf-9b1d-4547-afa1-d46f18bd9a96" />
+<img width="858" height="700" alt="Screenshot 2025-07-19 172028" src="https://github.com/user-attachments/assets/c2bf9e1e-b802-4ef2-9e4f-030a7c85d109" />
+<img width="423" height="951" alt="Screenshot 2025-07-19 193125" src="https://github.com/user-attachments/assets/f8853129-c265-469e-8e7d-945be35f0751" />
+<img width="626" height="1065" alt="Screenshot 2025-07-19 173041" src="https://github.com/user-attachments/assets/dc158ba3-40e0-4e45-85f8-c5ceffdb364d" />
+
+---
 
 ## License
 
