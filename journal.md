@@ -1,6 +1,6 @@
 # MechaGrip: Log
 
-| Builder | Chandan             |
+| Builder | Chandan                    |
 |---------|-----------------------------|
 | Project | MechaGrip - Robotic Arm     |
 | Total Hours | 20 hours                 |
@@ -9,12 +9,12 @@
 
 ## MechaGrip 
 ### [Day 1] Motor Hunt Begins  
-Spent the whole morning comparing servo motors and stepper torque ratings. Every "perfect" match was either underpowered or overpriced. Landed on a decently powerful NEMA 17 with planetary gearbox. Overkill? Maybe. But MechaGrip deserves torque, not tears.  
+Spent the whole morning comparing servo motors and stepper torque ratings. Every "perfect" match was either underpowered or overpriced. Landed on a decently powerful MG996R Servo Motors with planetary gearbox. Overkill? Maybe. But MechaGrip deserves torque, not tears.  
 **Hours spent:** 3 hours
 
 | Image | Description |
 |-------|-------------|
-| <img width="858" height="700" alt="Screenshot 2025-07-19 172028" src="https://github.com/user-attachments/assets/73d27a61-aa55-4db9-bd4d-110594410c07" /> | The NEMA 17 motor we finally settled on. Decent torque, clean threads, good vibe. |
+| <img width="858" height="700" alt="Screenshot 2025-07-19 172028" src="https://github.com/user-attachments/assets/73d27a61-aa55-4db9-bd4d-110594410c07" /> | MG996R Servo Motors i finally settled on. Decent torque, clean threads, good vibe. |
 
 ---
 
@@ -29,7 +29,7 @@ Tried importing the motor disc into Fusion 360  thing was off-centered and kept 
 ---
 
 ### [Day 3] Baseplate From Hell  
-The robot base was not cooperating. Tried 3 different geometries to reduce print time, weight, and wiring chaos. Landed on a hexagonal structure with central pass-through. Sexy and practical.  
+The robot base was not cooperating. Tried 3 different geometries to reduce print time, ight, and wiring chaos. Landed on a hexagonal structure with central pass-through. Sexy and practical.  
 **Hours spent:** 2.5 hours
 
 | Image | Description |
