@@ -9,7 +9,11 @@
 
 ## MechaGrip 
 ### July 10th Motor Hunt Begins  
-Honestly, I spent my whole morning deep diving into servo motors and stepper torque stats, and it was a STRUGGLE. Every time I thought I found the one, it was either weak AF or way too pricey. In the end, I just went with an MG996R Servo Motor with a planetary gearbox ‘cause it packs a punch. Is it extra? 100%. But honestly, MechaGrip deserves all the torque, no room for disappointment here.
+bro i spent my entire morning just drowning in servo + stepper motor torque charts like i had 30 tabs open, datasheets, reddit threads, yt videos... felt like i was prepping for an engineering final i didn’t sign up for.
+
+every time i found one that looked solid, it was either mad weak (like bro couldn’t even lift a pencil) or stupid expensive like why does a motor cost more than my whole build lol. i was tryna do math like “ok 9.4kg/cm... divided by leverage... times crying” 
+
+after a solid 3hrs of pain i just gave up being sane and got an MG996R. but i didn’t stop there. nah.
 
 Low-key flex: 3 hours of my life gone, but I did it for the grip.
 
@@ -20,7 +24,9 @@ Low-key flex: 3 hours of my life gone, but I did it for the grip.
 ---
 
 ### July 11th Mounting Woes & Disc Drama  
-Tried dropping the motor disc into Fusion 360 and it was a full on mess thing was off center and kept breaking my constraints. Ended up just scrapping it and rebuilding from scratch, plus I added a little notch for alignment because my OCD couldn’t let it slide 🙃. Perfectionist mode: activated.
+tried dropping the motor disc into fusion and omg it was CHAOS, thing came in all off-center and kept snapping my constraints like twigs. i tried fixing it for like a solid hour but it was just pain. nothing lined up. everything broke. fusion was beefing with me for no reason.
+
+so i rage deleted it and rebuilt the whole thing from scratch.
 
 Time lost: 2 hours, but at least my sanity is intact.
 
@@ -31,7 +37,9 @@ Time lost: 2 hours, but at least my sanity is intact.
 ---
 
 ### July 12th Baseplate From Hell  
-Bro, the robot base was straight up not vibing with me. Messed around with three different shapes to make the print faster, lighter, and not a total wiring nightmare. Finally went with that hexagonal base and added a central pass through looks fire and actually works.
+bro the robot base was just not vibing with me at all tried like 3 different shapes back to back tryna make it lighter. every time i thought i cracked it, fusion was like “nah.”
+
+finally just went with a circular base (classic for a reason tbh)
 
 Time lost: 2.5 hours, but at least it’s now both a looker and a functional legend.
 
@@ -42,7 +50,9 @@ Time lost: 2.5 hours, but at least it’s now both a looker and a functional leg
 ---
 
 ### July 13th Gripper Design = Sleep Loss  
-Designing the gripper jaws was straight-up an art project. Took me three attempts before I finally nailed it with parallel jaws and a gear rack setup. Low key feels like I’m crafting a vending machine claw except this one actually works and won’t embarrass me.
+designing the gripper jaws felt less like engineering and more like an art project took me three full tries to get something that wasn’t janky or weirdly shaped. kept tweaking the angle, spacing, all that jazz. lowkey feels like i’m building a vending machine claw
+
+pretty proud ngl. it looks decent. im calling that a win lol
 
 Hours lost: 3, but hey, now I got a gripper that pulls its weight.
 
@@ -53,13 +63,18 @@ Hours lost: 3, but hey, now I got a gripper that pulls its weight.
 ---
 
 ### July 14th The Elbow Bends (Finally)  
-The elbow link just kept beefing with the shoulder constant clipping drama. So I went full engineer, redesigned the range stop, swapped out the bearing seat, and now it finally looks like a real mech arm. 
-Time sacrificed: 2 hours. Worth it for the smooth joints.
+bruh the elbow link was beefing w the shoulder HARD , fusion was throwing errors like it had some long lost beef w me
+
+snapped and went full nerd mode, redesigned the range stop, swapped the bearing seat, cleaned up the jank. now it actually looks like a mech arm and not a busted door hinge lol
+
+took like 2 hrs but ngl… totally worth. joints smooth af now 
 
 ---
 
 ### July 15th Shoulder Day  
-Had to buff up the shoulder.
+had to buff up the shoulder in fusion lol, it was lookin way too skinny and kept makin the whole model feel weak messed with the sketch like 4 times tryna get the thickness right without making it look goofy
+
+ended up adding some extra material around the joint + tweaked the profile a bit. now it actually looks like it can handle life. fusion was lagging half the time but i made it out 
 
 Time sunk: 3 hours, but at least the shoulder’s built like a tank now.
 
@@ -70,8 +85,12 @@ Time sunk: 3 hours, but at least the shoulder’s built like a tank now.
 ---
 
 ### July 16th BOM Lock & Render  
-Sat down and finalized the BOM. Found most parts on Amazon. Final model render looks insane.  
-Time sunk: 2.5 hours
+finally sat down n finished the BOM found most of the parts on amazon after way too much scrolling. some were weirdly expensive for no reason but we move
+
+also did the final render in fusion and omg it looks insane. like lowkey poster worthy
+
+time sunk: 2.5 hrs
+brain fried: yes
 
 | Image | Description |
 |-------|-------------|
