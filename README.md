@@ -1,6 +1,6 @@
 # MechaGrip
 
-MechaGrip is a 4-axis robot arm that's roughly like if a CNC machine, a 3D printer, and a drunk claw machine had a baby except this one works. It's designed for light pick-and-place operations, gesture control testing, or just for showing off on your desk alongside your keyboard. It's powered by a simple Arduino rig but doesn't feel simple whatsoever.
+MechaGrip is a 4-axis robot arm that's roughly like if a CNC machine, a 3D printer, and a drunk claw machine had a baby except this one works. It's designed for light pick n place operations, gesture control testing, or just for showing off on your desk alongside your keyboard. It's powered by a simple Arduino rig but doesn't feel simple whatsoever.
 
 
 <img width="365" height="509" alt="image" src="https://github.com/user-attachments/assets/430a393c-23b0-4402-b01a-bebf1a17a502" />
