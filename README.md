@@ -1,7 +1,6 @@
 # MechaGrip
 
-MechaGrip is a 4-axis robotic arm that’s kinda like if a CNC machine, a 3D printer, and a drunk claw machine had a kid except this one actually works. It’s made for light pick-and-place tasks, gesture control experiments, or just for flexing on your desk next to your keyboard. It runs on a basic Arduino setup but doesn’t feel basic at all. The servos aren’t those $2 ones that jitter like they’re having a seizure   we went with beefy MG996Rs and a proper control board. It moves smoothly, holds position like a champ, and doesn’t scream (too loudly) when you power it up.
-
+MechaGrip is a 4-axis robot arm that's roughly like if a CNC machine, a 3D printer, and a drunk claw machine had a baby except this one works. It's designed for light pick-and-place operations, gesture control testing, or just for showing off on your desk alongside your keyboard. It's powered by a simple Arduino rig but doesn't feel simple whatsoever.
 
 
 <img width="365" height="509" alt="image" src="https://github.com/user-attachments/assets/430a393c-23b0-4402-b01a-bebf1a17a502" />
@@ -11,18 +10,13 @@ MechaGrip is a 4-axis robotic arm that’s kinda like if a CNC machine, a 3D pri
 
 ## What it can do
 
-- Controlled via joystick or sliders, or you can go full nerd and make it run from Python or serial commands
-- Decent strength it won’t lift bricks but a screwdriver or can of Red Bull? Easy.
-- Compact enough to sit on a table without feeling like it’s invading your space
-- Fully open source so you can mod the hell out of it
+I basically made it to just hold my stuff, that i gotta solder, so its not made to hold anything really solid, but future upgrades will do that
 
 ---
 
 ## Build Details
 
-The arm has 4 degrees of freedom (base, shoulder, elbow, gripper) and is powered by 4x MG996R high-torque metal gear servos. The body is mostly acrylic plates and some 3D printed joints. We used a PCA9685 servo driver so your Arduino doesn’t get cooked by current draw.
-
-Wiring is simple, most of the mess is cable management. We zip-tied ours. You can be classier if you want.
+The arm has 4 degrees of freedom (base, shoulder, elbow, gripper) and is powered by 4x MG996R high-torque metal gear servos. I used a PCA9685 servo driver so your Arduino doesn’t get cooked by current draw.
 
 ---
 
@@ -41,22 +35,12 @@ Wiring is simple, most of the mess is cable management. We zip-tied ours. You ca
 
 **Total Cost**: **$100.69 USD**
 
-Give or take a few dollars for shipping, tax 
+
 ---
 
 ## Code and Firmware
 
-Just basic Arduino code with `Servo.h` and the PCA9685 library. Upload and run. You can control the arm using joystick input, sliders, or from Python/serial if you like writing scripts instead of turning knobs.
-
-You’ll find the code inside `/firmware`.
-
----
-
-## Wiring
-
-- MG996R Servos → PCA9685 outputs (channels 0–3)
-- PCA9685 → VCC (5V), GND, SDA/SCL → Arduino A4/A5
-- Power supply → PCA9685 power rail (don’t power servos from Arduino, it will cry)
+Just basic Arduino code with `Servo.h` and the PCA9685 library. Upload and run. i wanna run it using serial port, i just like serial more than a joystick which is too modern and doesnt feel like the manual old shitbox, i mean the serial port, the code is inside `/firmware`.
 
 ---
 ## gallery 
