@@ -8,9 +8,10 @@
 ---
 
 ## MechaGrip 
-### [Day 1] Motor Hunt Begins  
-Spent the whole morning comparing servo motors and stepper torque ratings. Every "perfect" match was either underpowered or overpriced. Landed on a decently powerful MG996R Servo Motors with planetary gearbox. Overkill? Maybe. But MechaGrip deserves torque, not tears.  
-**Hours spent:** 3 hours
+### July 10th Motor Hunt Begins  
+Honestly, I spent my whole morning deep diving into servo motors and stepper torque stats, and it was a STRUGGLE. Every time I thought I found the one, it was either weak AF or way too pricey. In the end, I just went with an MG996R Servo Motor with a planetary gearbox ‘cause it packs a punch. Is it extra? 100%. But honestly, MechaGrip deserves all the torque, no room for disappointment here.
+
+Low-key flex: 3 hours of my life gone, but I did it for the grip.
 
 | Image | Description |
 |-------|-------------|
@@ -18,9 +19,10 @@ Spent the whole morning comparing servo motors and stepper torque ratings. Every
 
 ---
 
-### [Day 2] Mounting Woes & Disc Drama  
-Tried importing the motor disc into Fusion 360  thing was off-centered and kept breaking my constraints. Rebuilt the disc and added a notch for alignment. OCD won.  
-**Hours spent:** 2 hours
+### July 11th Mounting Woes & Disc Drama  
+Tried dropping the motor disc into Fusion 360 and it was a full on mess thing was off center and kept breaking my constraints. Ended up just scrapping it and rebuilding from scratch, plus I added a little notch for alignment because my OCD couldn’t let it slide 🙃. Perfectionist mode: activated.
+
+Time lost: 2 hours, but at least my sanity is intact.
 
 | Image | Description |
 |-------|-------------|
@@ -28,19 +30,21 @@ Tried importing the motor disc into Fusion 360  thing was off-centered and kept 
 
 ---
 
-### [Day 3] Baseplate From Hell  
-The robot base was not cooperating. Tried 3 different geometries to reduce print time, ight, and wiring chaos. Landed on a hexagonal structure with central pass-through. Sexy and practical.  
-**Hours spent:** 2.5 hours
+### July 12th Baseplate From Hell  
+Bro, the robot base was straight up not vibing with me. Messed around with three different shapes to make the print faster, lighter, and not a total wiring nightmare. Finally went with that hexagonal base and added a central pass through looks fire and actually works.
+
+Time lost: 2.5 hours, but at least it’s now both a looker and a functional legend.
 
 | Image | Description |
 |-------|-------------|
-| <img width="873" height="729" alt="Screenshot 2025-07-19 172345" src="https://github.com/user-attachments/assets/f0220d44-a904-4f76-b753-fdef0eabd94e" /> | MechaGrip’s base  six-sided, balanced, and ready to anchor the future. |
+| <img width="873" height="729" alt="Screenshot 2025-07-19 172345" src="https://github.com/user-attachments/assets/f0220d44-a904-4f76-b753-fdef0eabd94e" /> | MechaGrip’s base  six-sided, balanced. |
 
 ---
 
-### [Day 4] Gripper Design = Sleep Loss  
-Gripper jaw geometry is an art. My third attempt finally worked parallel jaws with a gear-rack mechanism. Feels like I’m building a vending machine claw that doesn’t suck.  
-**Hours spent:** 3 hours
+### July 13th Gripper Design = Sleep Loss  
+Designing the gripper jaws was straight-up an art project. Took me three attempts before I finally nailed it with parallel jaws and a gear rack setup. Low key feels like I’m crafting a vending machine claw except this one actually works and won’t embarrass me.
+
+Hours lost: 3, but hey, now I got a gripper that pulls its weight.
 
 | Image | Description |
 |-------|-------------|
@@ -48,15 +52,16 @@ Gripper jaw geometry is an art. My third attempt finally worked parallel jaws wi
 
 ---
 
-### [Day 5] The Elbow Bends (Finally)  
-The elbow link kept clipping into the shoulder. Had to redesign the range stop and swap out a bearing seat. Looks right now. Also added cable routing holes like a nerd.  
-**Hours spent:** 2 hours
+### July 14th The Elbow Bends (Finally)  
+The elbow link just kept beefing with the shoulder constant clipping drama. So I went full engineer, redesigned the range stop, swapped out the bearing seat, and now it finally looks like a real mech arm. 
+Time sacrificed: 2 hours. Worth it for the smooth joints.
 
 ---
 
-### [Day 6] Shoulder Day  
-Made the shoulder beefier after stress-testing. It’s now a swooping, 3D-printable chunk of plastic magic. Built a hollow for a limit switch too, just in case.  
-**Hours spent:** 3 hours
+### July 15th Shoulder Day  
+Had to buff up the shoulder.
+
+Time sunk: 3 hours, but at least the shoulder’s built like a tank now.
 
 | Image | Description |
 |-------|-------------|
@@ -64,9 +69,9 @@ Made the shoulder beefier after stress-testing. It’s now a swooping, 3D-printa
 
 ---
 
-### [Day 7] BOM Lock & Render  
-Sat down and finalized the BOM. Found most parts on Amazon and LCSC. Decided to splurge on a good buck converter and some high-precision bearings. Final model render looks insane.  
-**Hours spent:** 2.5 hours
+### July 16th BOM Lock & Render  
+Sat down and finalized the BOM. Found most parts on Amazon. Final model render looks insane.  
+Time sunk: 2.5 hours
 
 | Image | Description |
 |-------|-------------|
