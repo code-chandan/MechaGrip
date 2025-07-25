@@ -8,14 +8,10 @@
 ---
 
 ## MechaGrip 
-### July 10th Motor Hunt Begins  
-bro i spent my entire morning just drowning in servo + stepper motor torque charts like i had 30 tabs open, datasheets, reddit threads, yt videos... felt like i was prepping for an engineering final i didn’t sign up for.
+### July 10th finding the best motor for my roboarm
+so I spent the early hours of july 10th while looking aty some servo and stepper motor charts and, and it was a ton of work, i looked up many websites, almost 30+ sources, this includes yt reddit threads and some datasheets asw. it was tiring, so ye, i finally decided on what mototrs to use, also i learned that the motors capacity is around 9.4 kg/cm which is good enough becvuse im making this only to lift my solder parts and circuit boards, however i will upgrade it in the future, ive attached the image of the motor below !. 
 
-every time i found one that looked solid, it was either mad weak (like bro couldn’t even lift a pencil) or stupid expensive like why does a motor cost more than my whole build lol. i was tryna do math like “ok 9.4kg/cm... divided by leverage... times crying” 
-
-after a solid 3hrs of pain i just gave up being sane and got an MG996R. but i didn’t stop there. nah.
-
-Low-key flex: 3 hours of my life gone, but I did it for the grip.
+time spent: 3 hours
 
 | Image | Description |
 |-------|-------------|
@@ -23,12 +19,10 @@ Low-key flex: 3 hours of my life gone, but I did it for the grip.
 
 ---
 
-### July 11th Mounting Woes & Disc Drama  
-tried dropping the motor disc into fusion and omg it was CHAOS, thing came in all off-center and kept snapping my constraints like twigs. i tried fixing it for like a solid hour but it was just pain. nothing lined up. everything broke. fusion was beefing with me for no reason.
+### July 11th designing the disc and checking compatibilty  
+on the evening of july 11th. i worked on the disc of the motors, and it was quite frustrating considering it was my 3rd time building a robot, the dic kept messign with the constraints i had set, but later i had no choice but to delete it all and start from the beggining, after that i tried to assemble it, and i accidently deleted the step file of that disc, and i also emptied my recycle bin, i didnt notice it, but later it was imported onto fusion, so it wasnt a problem, that was it for the disc, it was kinda tough to make, but it is a very important part of the bot.
 
-so i rage deleted it and rebuilt the whole thing from scratch.
-
-Time lost: 2 hours, but at least my sanity is intact.
+Time spent: 2 hours
 
 | Image | Description |
 |-------|-------------|
@@ -36,12 +30,10 @@ Time lost: 2 hours, but at least my sanity is intact.
 
 ---
 
-### July 12th Baseplate From Hell  
-bro the robot base was just not vibing with me at all tried like 3 different shapes back to back tryna make it lighter. every time i thought i cracked it, fusion was like “nah.”
+### July 12th Base 
+on the morning of july 12th, I starting sowrking on the base of the robot, i tried many shapes, but none seem to be compatible with what i thought of, and i realised why the circular is the og and the best, so finished doing the base and now its rwady for a render
 
-finally just went with a circular base (classic for a reason tbh)
-
-Time lost: 2.5 hours, but at least it’s now both a looker and a functional legend.
+Time spent: 2.5 hours
 
 | Image | Description |
 |-------|-------------|
@@ -49,12 +41,10 @@ Time lost: 2.5 hours, but at least it’s now both a looker and a functional leg
 
 ---
 
-### July 13th Gripper Design = Sleep Loss  
-designing the gripper jaws felt less like engineering and more like an art project took me three full tries to get something that wasn’t janky or weirdly shaped. kept tweaking the angle, spacing, all that jazz. lowkey feels like i’m building a vending machine claw
+### July 13th Desighned the gripper
+on the morning of 13th july I made a gripper for my robotic arm, the basic idea was just to make it good enough so that it can hold my solder parts and basically hold boards more than anythign else, so i went with the zig zag type design and attached one of the servos so that it works well, this wansnt hard at all, for me the easiest part of building the entire robot was the gripper, although it took more time, it was just for detailing stuff on it, not for functionality, it is perfect
 
-pretty proud ngl. it looks decent. im calling that a win lol
-
-Hours lost: 3, but hey, now I got a gripper that pulls its weight.
+time spent: 3 hours
 
 | Image | Description |
 |-------|-------------|
@@ -62,21 +52,19 @@ Hours lost: 3, but hey, now I got a gripper that pulls its weight.
 
 ---
 
-### July 14th The Elbow Bends (Finally)  
-bruh the elbow link was beefing w the shoulder HARD , fusion was throwing errors like it had some long lost beef w me
+### July 14th made the elbow bends
+on 14th july i made the elbow bends of the robot, basically it was cliping out with the other arm and creating a mess, which i solved pretty quick and my elbow bends were ready, the mistake : i was trying to use fillet on a side that had 2 + constraints which is why it was moving in a specific manner and i couldnt figure that out
+but later i did.
+what i learnt: like i understood hwo to use the fillet tool and understood how contraints work
 
-snapped and went full nerd mode, redesigned the range stop, swapped the bearing seat, cleaned up the jank. now it actually looks like a mech arm and not a busted door hinge lol
-
-took like 2 hrs but ngl… totally worth. joints smooth af now 
+time spent: 2 hours
 
 ---
 
-### July 15th Shoulder Day  
-had to buff up the shoulder in fusion lol, it was lookin way too skinny and kept makin the whole model feel weak messed with the sketch like 4 times tryna get the thickness right without making it look goofy
+### July 15th Shoulder building
+started working ont he shoulders of the robot arm, so the first problem i encountered was that it was way too skinny, i did trial and error with a few measurements, but none worked out, i kept going until i reached this, so i made it look better that what it was, it was skinny as hell.
 
-ended up adding some extra material around the joint + tweaked the profile a bit. now it actually looks like it can handle life. fusion was lagging half the time but i made it out 
-
-Time sunk: 3 hours, but at least the shoulder’s built like a tank now.
+Time spent: 3 hours, but at least the shoulder’s built like a tank now.
 
 | Image | Description |
 |-------|-------------|
@@ -84,13 +72,11 @@ Time sunk: 3 hours, but at least the shoulder’s built like a tank now.
 
 ---
 
-### July 16th BOM Lock & Render  
-finally sat down n finished the BOM found most of the parts on amazon after way too much scrolling. some were weirdly expensive for no reason but we move
+### July 16th made the bom and attached render pics  
+today i worked on the bill of materials and took a few pictures of the bom, took some time to check my electronics inventory and check what i have and also finding cheapest parts took some time, the bom was coming upto somewhere around 100$ which is cheaper than most of the robotic arm builds.
+also the render looks cool, ive attached the image below.
 
-also did the final render in fusion and omg it looks insane. like lowkey poster worthy
-
-time sunk: 2.5 hrs
-brain fried: yes
+time spent: 2.5 hrs
 
 | Image | Description |
 |-------|-------------|
