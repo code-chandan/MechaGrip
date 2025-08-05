@@ -4,8 +4,9 @@ The 4-axis robotic arm MechaGrip is made for light-duty jobs like pick-and-place
 Even though the electronics are simple, It is built with sufficient torque and range for meaningful interaction, and it is responsive and customizable. it looks fantastic in renders.
 
 
+<img width="1315" height="919" alt="Screenshot 2025-08-05 122817" src="https://github.com/user-attachments/assets/bc164ed1-72f0-4893-99bb-21f2ff6b8e6d" />
 
-<img width="365" height="509" alt="image" src="https://github.com/user-attachments/assets/430a393c-23b0-4402-b01a-bebf1a17a502" />
+
 
 
 ---
